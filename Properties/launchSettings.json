@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "dumpcollectionfa": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7102",
+      "launchBrowser": false
+    }
+  }
+}
